@@ -6,4 +6,6 @@ _ Estou estudando na Alura
 _ Estou me desenvolvendo na linguagem Java Script
 _ Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
 
-### Você entrar em contato comigo 
+### Você entrar em contato comigo
+
+felipesvieira07@gmail.com
